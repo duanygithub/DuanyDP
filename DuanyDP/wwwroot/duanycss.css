@@ -1,0 +1,9 @@
+﻿.bg-duanyblue {
+    --bs-bg-opacity: 1;
+    background-color: dodgerblue !important;
+}
+
+.text-white {
+    --bs-text-opacity: 1;
+    color: white !important;
+}
